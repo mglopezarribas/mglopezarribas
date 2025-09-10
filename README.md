@@ -31,18 +31,12 @@ Actual estudiante de Grado Superior en Administracion de Sistemas Informaticos e
 <br>
 
 <h3>Tecnologias</h3>
-- CISCO Meraki <br>
-- Cisco Firewall <br>
-- Cisco PKT <br>
+- [CISCO Meraki](https://www.cisco.com/) <br>
+- [Cisco Firewall](https://www.cisco.com/) <br>
+- [Cisco PKT](https://www.netacad.com/es/cisco-packet-tracer) <br>
 
 <br/>
 
-
-<!--icons and links-->
-<p>
-<a href="https://www.cisco.com/" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" alt="leetcode" height="50" width="50" /></a>
-<a href="https://meraki.cisco.com/" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/b0b5cfe3-3565-41d1-a1f5-6a3f88f4c42f" alt="hackerrank" height="50" width="50" /></a>
-</p>
 
 ---
 
