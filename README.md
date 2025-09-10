@@ -15,8 +15,8 @@ Actual estudiante de Grado Superior en Administracion de Sistemas Informaticos e
     </ul>
   <!--icons and links-->
   <p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-magdi-4b209b218/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="mohamed.m.alsehli@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
+  <a href="https://www.linkedin.com/in/mart%C3%ADn-gilabert-l%C3%B3pez-761412298/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="martin.gilabert.trabajo@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
   </p>
   </div>
 
