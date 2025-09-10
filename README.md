@@ -6,7 +6,7 @@
 
 Actual estudiante de Grado Superior en Administracion de Sistemas Informaticos en Red.
 
-- 🎓 &nbsp; Cuento con experiencia laboral en la reconocida empresa All4Sec, desarrollando el rol de Tecnico en Ciberseguridad, estando involucrado en multitud de proyectos de este ambito.
+- 🎓 &nbsp; Cuento con experiencia laboral en la reconocida empresa [All4Sec](https://all4sec.es/), desarrollando el rol de Tecnico en Ciberseguridad, estando involucrado en multitud de proyectos de este ambito.
   <!-- Connect with me -->
   <!--h2 without bottom border-->
   <div id="user-content-toc">
@@ -40,8 +40,8 @@ Actual estudiante de Grado Superior en Administracion de Sistemas Informaticos e
 
 <!--icons and links-->
 <p>
-<a href="https://leetcode.com/Mohamed_Magdi/" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" alt="leetcode" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/profile/mohamed_m_alseh1" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/b0b5cfe3-3565-41d1-a1f5-6a3f88f4c42f" alt="hackerrank" height="50" width="50" /></a>
+<a href="https://www.cisco.com/" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" alt="leetcode" height="50" width="50" /></a>
+<a href="https://meraki.cisco.com/" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/b0b5cfe3-3565-41d1-a1f5-6a3f88f4c42f" alt="hackerrank" height="50" width="50" /></a>
 </p>
 
 ---
