@@ -23,17 +23,17 @@ Actual estudiante de Grado Superior en Administracion de Sistemas Informaticos e
 ---
 
 <h3>Conocimientos</h3>
-- 📧 &nbsp; Seguridad en correo electronico <br>
-- 🔐 &nbsp; Firewall CISCO <br>
-- 🖥️ &nbsp; Arquitecturas en red <br>
-- 🔍 &nbsp; Escaneo de vulnerabilidades <br>
+- 📧 &nbsp; Seguridad en correo electronico. <br>
+- 🔐 &nbsp; Firewall CISCO. <br>
+- 🖥️ &nbsp; Arquitecturas en red. <br>
+- 🔍 &nbsp; Escaneo de vulnerabilidades. <br>
 
 <br>
 
 <h3>Tecnologias</h3>
-- [CISCO Meraki](https://www.cisco.com/) <br>
-- [Cisco Firewall](https://www.cisco.com/) <br>
-- [Cisco PKT](https://www.netacad.com/es/cisco-packet-tracer) <br>
+- CISCO Meraki. <br>
+- CISCO Firewall. <br>
+- CISCO PKT. <br>
 
 <br/>
 
