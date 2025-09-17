@@ -39,8 +39,3 @@ Actual estudiante de Grado Superior en Administracion de Sistemas Informaticos e
 
 
 </div>
-
----
-
-Credit: [username](https://github.com/Mo-Alsehli)
-Last Edited on: 6/4/2024
