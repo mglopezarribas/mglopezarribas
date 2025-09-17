@@ -38,36 +38,6 @@ Actual estudiante de Grado Superior en Administracion de Sistemas Informaticos e
 <br/>
 
 
----
-
-### ✨ Visitors
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mo-Alsehli" alt="Mo-Alsehli" /> </p>
-
----
-
-### 📊 Profile stats
-
-[![Mohamed Magdi 's github stats](https://github-readme-stats.vercel.app/api?username=Mo-Alsehli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mo-Alshli/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Alsehli&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mohamed_magdi" /></p>
-
----
-
-### 📊 Profile contribution
-
-> 3D Contrib
-
-<div align="center">
-  <img  src = "https://github.com/Mo-Alsehli/Mo-Alsehli/blob/master/profile-3d-contrib/profile-season-animate.svg"
-       alt="3d-contrib" height = 85% width = 70% /></a>
-</div>
-
-> Contribution Graph
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
 </div>
 
 ---
